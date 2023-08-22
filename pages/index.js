@@ -3,27 +3,27 @@ import { DragIcon } from '../components/icons';
 import { DragDropContext, Droppable, Draggable, resetServerContext } from 'react-beautiful-dnd';
 let myArr = [
   {
-    studenName: 'jack',
+    studenName: 'Jack',
     studenClass: 6,
     studenSection: 'a',
   },
   {
-    studenName: 'tom',
+    studenName: 'Tom',
     studenClass: 6,
     studenSection: 'a',
   },
   {
-    studenName: 'mahid',
+    studenName: 'Mahid',
     studenClass: 6,
     studenSection: 'a',
   },
   {
-    studenName: 'karim',
+    studenName: 'Joy',
     studenClass: 6,
     studenSection: 'a',
   },
   {
-    studenName: 'rahim',
+    studenName: 'Sahan',
     studenClass: 6,
     studenSection: 'a',
   },
